@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 10:32:17 CST 2021
+javax.inject-1.pom>central=
+javax.inject-1-javadoc.jar>central=
+javax.inject-1.pom>nexus-aliyun=
+javax.inject-1-sources.jar>central=

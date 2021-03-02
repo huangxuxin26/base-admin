@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 10:30:28 CST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614649992132
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1614649987964
+@default-central-repos-http\://repo.maven.apache.org/maven2/.lastUpdated=1614649988712
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.jetty\:jetty-bom\:pom\:9.4.14.v20181114 from/to central-repos (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom 501 HTTPS Required
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1614652228642

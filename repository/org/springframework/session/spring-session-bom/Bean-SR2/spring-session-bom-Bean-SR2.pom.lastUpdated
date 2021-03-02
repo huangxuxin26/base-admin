@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 10:30:31 CST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614650002919
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1614650001431
+@default-central-repos-http\://repo.maven.apache.org/maven2/.lastUpdated=1614650001829
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Bean-SR2 from/to central-repos (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Bean-SR2/spring-session-bom-Bean-SR2.pom 501 HTTPS Required
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1614652231219

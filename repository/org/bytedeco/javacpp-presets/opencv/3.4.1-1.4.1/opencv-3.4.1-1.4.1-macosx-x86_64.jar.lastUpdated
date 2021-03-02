@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 04 16:18:11 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1596529091040
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.bytedeco.javacpp-presets\:opencv\:jar\:macosx-x86_64\:3.4.1-1.4.1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

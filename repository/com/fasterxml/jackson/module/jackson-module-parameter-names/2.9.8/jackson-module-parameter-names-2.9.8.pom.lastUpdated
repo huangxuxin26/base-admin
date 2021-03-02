@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 15:11:45 CST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614669105311
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1614669103534
+@default-central-repos-http\://repo.maven.apache.org/maven2/.lastUpdated=1614669104023
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.module\:jackson-module-parameter-names\:pom\:2.9.8 from/to central-repos (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.pom 501 HTTPS Required
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.error=

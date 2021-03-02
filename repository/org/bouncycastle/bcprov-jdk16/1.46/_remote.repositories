@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 10:34:54 CST 2021
+bcprov-jdk16-1.46.pom>nexus-aliyun=
+bcprov-jdk16-1.46.jar>nexus-aliyun=
+bcprov-jdk16-1.46.pom>central=

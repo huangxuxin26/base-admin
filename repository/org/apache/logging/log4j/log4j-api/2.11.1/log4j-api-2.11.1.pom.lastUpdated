@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 10:30:40 CST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614650032269
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1614650030686
+@default-central-repos-http\://repo.maven.apache.org/maven2/.lastUpdated=1614650031112
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-api\:pom\:2.11.1 from/to central-repos (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.pom 501 HTTPS Required
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1614652240410

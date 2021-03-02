@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 10:30:37 CST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614650024707
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1614650022507
+@default-central-repos-http\://repo.maven.apache.org/maven2/.lastUpdated=1614650022917
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:pom\:2.1.2.RELEASE from/to central-repos (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.pom 501 HTTPS Required
+http\://101.132.168.94\:8081/nexus/content/repositories/thirdparty/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1614652237382

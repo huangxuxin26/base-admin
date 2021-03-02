@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 04 16:18:09 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1596529089972
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.bytedeco.javacpp-presets\:libfreenect\:jar\:linux-ppc64le\:0.5.3-1.4.1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
